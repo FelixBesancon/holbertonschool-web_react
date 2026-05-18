@@ -1,0 +1,9 @@
+# Node modules (TOUJOURS ignorer)
+node_modules/
+
+# Build / transpiled files (au cas où plus tard)
+dist/
+build/
+
+# Cache
+.cache/

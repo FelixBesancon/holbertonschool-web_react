@@ -1,9 +1,12 @@
-# Node modules (TOUJOURS ignorer)
+# Node modules
 node_modules/
 
-# Build / transpiled files (au cas où plus tard)
+# Build / transpiled files
 dist/
 build/
 
 # Cache
 .cache/
+
+# Map
+*.js.map
